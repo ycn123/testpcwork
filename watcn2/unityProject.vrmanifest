@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.watcn2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\YCN\\project\\watcn2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "watcn2 [Testing]"
+        }
+      }
+    }
+  ]
+}
